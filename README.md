@@ -1,2 +1,1 @@
-# dockerhub
-repo docker hub
+This repo is used for docker hub autobuild.  
